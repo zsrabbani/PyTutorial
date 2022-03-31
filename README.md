@@ -1,7 +1,7 @@
 # PyTutorial
 <img src="./images/logo.png" width="300"/>
 
-Source codes for CS courses offered by [Zeinab Sadat Rabani]  [**Ali Hejazizo**].
+Source codes for CS courses offered by **Zeinab Sadat Rabani**.
 
 # Table of Content 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
