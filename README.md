@@ -1,6 +1,6 @@
 # PyTutorial
 <img src="./images/logo.png" width="300"/>
-
+<https://github.com/zsrabbani/PyTutorial/blob/main/image/logo.png>
 Source codes for python courses offered by **Zeinab Sadat Rabani**.
 
 # Table of Content 
